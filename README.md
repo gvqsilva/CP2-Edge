@@ -77,7 +77,7 @@ Figura 1 - Esquema da montagem
 
 <h2 id="Como usar">Como Usar:</h2>
 <ol>
-  <li>Ligue o sistema;/li>
+  <li>Ligue o sistema;</li>
   <li>O sensor LDR irá detectar a luminosidade ambiente, enquanto o DHT11 monitora ascondições de temperatura e umidade;</li>
   <li>Com base nas leituras dos sensores, o Arduino acionará os LEDs verde, amarelo ou vermelho conforme o estado de luminosidade, umidade ou temperatura;</li>
   <li>Observe as mensagens no Display LCD conforme as condições do ambiente;</li>
