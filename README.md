@@ -10,7 +10,7 @@
 * [Componentes](#componentes)
 * [Instalação](#instalacao)
 * [Como usar](#como-usar)
-* [Código do programa](#coódigo-do-programa)
+* [Código do programa](#codigo-do-programa)
 * [Benefícios](#beneficios)
 
 
