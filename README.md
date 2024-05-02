@@ -10,8 +10,8 @@
 * [Componentes](#componentes)
 * [Instalação](#instalacao)
 * [Como usar](#como-usar)
-* [Código do programa](#codigo-do-programa)
 * [Benefícios](#beneficios)
+* [Código do programa](#código-do-programa)
 
 
 <h2 id="Descricao do Projeto">📘Descrição do projeto:</h2>
@@ -97,7 +97,6 @@ Figura 1 - Esquema da montagem
 
 
 
-  
-<h2 id="Codigo do programa">Código do programa:</h2>
+<h2 id="Código do programa">Código do programa:</h2>
 
 https://github.com/gvqsilva/CP2-Edge/blob/main/codigo-cp2-edge.ino.ino
