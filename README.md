@@ -100,3 +100,8 @@ Figura 1 - Esquema da montagem
 <h2 id="Código do programa">Código do programa:</h2>
 
 https://github.com/gvqsilva/CP2-Edge/blob/main/codigo-cp2-edge.ino.ino
+
+# Autores
+
+| [<img loading="lazy" src="https://github.com/gvqsilva/CP2-Edge/assets/110639916/d022ed18-0057-4944-9e00-db796c6d2e45" width=115><br><sub>Gabriel Vasquez</sub>](https://github.com/gvqsilva)  |  [<img loading="lazy" src="https://github.com/gvqsilva/CP2-Edge/assets/110639916/ff16163c-a279-4c0c-a73a-f1fd9939519d" width=115><br><sub>Guilherme Araujo</sub>](https://github.com/guilhermeonrails)  |  [<img loading="lazy" src="https://github.com/gvqsilva/CP2-Edge/assets/110639916/1a55c86a-5d38-4e6c-9e08-af0bbae22517" width=115><br><sub>Augusto Douglas</sub>](https://github.com/alexfelipe)  |  [<img loading="lazy" src="" width=115><br><sub>Gustavo Oliveira</sub>](https://github.com/camilafernanda) |
+| :---: | :---: | :---: | :---: |
