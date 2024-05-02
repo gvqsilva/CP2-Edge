@@ -11,6 +11,7 @@
 * [Instalação](#instalacao)
 * [Como usar](#como-usar)
 * [Código do programa](#coódigo-do-programa)
+* [Benefícios](#beneficios)
 
 
 <h2 id="Descricao do Projeto">📘Descrição do projeto:</h2>
@@ -85,6 +86,18 @@ Figura 1 - Esquema da montagem
   <li>Monitore a temperatura, umidade e luminosidade exibidas no Display LCD.</li>
 </ol>
 
+<h2 id="Beneficios">Benefícios</h2>
+<ul>
+  <li><strong>Versatilidade:</strong> O sistema pode ser adaptado para monitorar diferentes variáveis e ser implementado em diversos ambientes, desde residências até espaços industriais </li>
+  <li><strong>Consciência do abiente:</strong> Ao fornecer informações detalhadas sobre as condições da sala, o projeto promove a preservação do vinho;</li>
+  <li><strong>Customização:</strong> O usuário podem personalizar o display de acordo com seu gosto, mudando as mensagens, etc.</li>
+  <li><strong>Integração com Sistemas de Segurança:</strong> Integra o sistema de monitoramento da adega com sistemas de segurança, como alarmes sonoros. Isso ajudaria a garantir a segurança dos vinhos</li>
+  <li><strong>Sistema de Iluminação Controlada:</strong> Desenvolva um sistema de iluminação controlada que ajusta automaticamente a intensidade e o espectro da luz dentro da adega. Isso pode ser especialmente útil para garantir que as garrafas de vinho não sejam expostas à luz ultravioleta, que pode deteriorar a qualidade do vinho ao longo do tempo.</li>
+</ul>
+
+
+
+  
 <h2 id="Codigo do programa">Código do programa:</h2>
 
 https://github.com/gvqsilva/CP2-Edge/blob/main/codigo-cp2-edge.ino.ino
