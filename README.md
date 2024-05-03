@@ -71,7 +71,7 @@ ideal, o LED Vermelho acende e o Buzzer é ativado continuamente. O Display info
 </ol>
 
 <p align = "center">
-<img loading="lazy" width="500px" src = 'https://github.com/gvqsilva/CP2-Edge/assets/110639916/f7841a85-f2c5-46fb-a82b-78d6cae4ef17'/>
+<img loading="lazy" width="500px" src = 'https://github.com/gvqsilva/CP2-Edge/assets/110639916/61277b96-8740-4ee0-8a97-dd545d5ca050'/>
 </p>
 <p align = "center">
 Figura 1 - Esquema da montagem
