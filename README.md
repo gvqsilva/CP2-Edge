@@ -100,7 +100,7 @@ Figura 1 - Esquema da montagem
 
 <h2 id="Código do programa">Código do programa:</h2>
 
-https://github.com/gvqsilva/CP2-Edge/blob/main/code-cp2.ino
+https://github.com/gvqsilva/CP2-Edge/blob/main/codigo-cp2-edge.ino.ino
 
 <h2 id="Autores">Autores</h2>
 
